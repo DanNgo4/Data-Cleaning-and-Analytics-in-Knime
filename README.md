@@ -23,6 +23,7 @@ The goal of this project is to equip the student with practical experience in da
 
 #### Part 2: Data Prediction using Naïve Bayes and Random Forrest Models
   - Following the project's instructions, 2 predicting models have been built to predict the "Credit_Score" class of the dataset and compared to each other.
+
 ![image](https://github.com/DanNgo4/Data-Cleaning-and-Analytics-in-Knime/assets/127183060/11010da2-0cc9-43da-90a7-e2b47eaef041)
 
     + Naïve Bayes's results:
