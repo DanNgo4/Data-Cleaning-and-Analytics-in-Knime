@@ -26,10 +26,10 @@ The goal of this project is to equip the student with practical experience in da
 
 ![image](https://github.com/DanNgo4/Data-Cleaning-and-Analytics-in-Knime/assets/127183060/11010da2-0cc9-43da-90a7-e2b47eaef041)
 
-    + Naïve Bayes's results:
+  - Naïve Bayes's results:
       ![image](https://github.com/DanNgo4/Data-Cleaning-and-Analytics-in-Knime/assets/127183060/5159cdd8-28e7-4185-bb21-f887a9f5b580)
 
-    + Random Forrest's results:
+  - Random Forrest's results:
       ![image](https://github.com/DanNgo4/Data-Cleaning-and-Analytics-in-Knime/assets/127183060/1d7304e7-af6c-48ff-b5f5-639a5ec5d928)
 
 
