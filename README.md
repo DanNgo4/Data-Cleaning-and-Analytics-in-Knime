@@ -16,7 +16,7 @@ The goal of this project is to equip the student with practical experience in da
 ![image](https://github.com/DanNgo4/Data-Cleaning-and-Analytics-in-Knime/assets/127183060/107548eb-0988-4327-9445-cde9ea9c27c4)
 
   - Total Workflow (can be downloaded from the .knwf file):
-![image](https://github.com/DanNgo4/Data-Cleaning-and-Analytics-in-Knime/assets/127183060/1368196b-60ef-4e48-86a3-fef666bd955a)
+![image](https://github.com/DanNgo4/Data-Cleaning-and-Analytics-in-Knime/assets/127183060/2b0cdb78-5e2b-4af8-8012-50e35ca57d31)
 
   - Using different nodes including File Reader, Column Filter, Missing Value, Rule-based Row Filter, String Manipulation, String To Number, Math Formula, Cell Splitter, Numeric Binner and Feature Selection Loop Start (1:1), nearly 20,000 entries have been filtered and the remaining data has been properly manipulated to the desired formats.
 ![image](https://github.com/DanNgo4/Data-Cleaning-and-Analytics-in-Knime/assets/127183060/872e35d2-5add-40c5-90cd-5b45d2907db8)
